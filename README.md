@@ -1,57 +1,57 @@
-<h1 align="center">🚀 پروژه‌ی فوق‌العاده من – PHP Awesome App</h1>
+<h1 align="center">✨ PHP Awesome App ✨</h1>
 
 <p align="center">
-  <b>یک سیستم پیشرفته مدیریت کاربران با PHP، MySQL و Bootstrap</b><br/>
-  🔐 ورود و ثبت‌نام | 🧠 اعتبارسنجی سمت سرور | 📦 معماری MVC
+  💻 سیستم پیشرفته مدیریت کاربران با PHP، MySQL و Bootstrap  
+  <br/>
+  🔐 ورود و ثبت‌نام | 🧠 اعتبارسنجی | 🎨 طراحی زیبا | ⚡ امنیت قوی
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.x-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/MySQL-5.x-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/MIT-License-green?style=flat-square" />
-</p>
-
----
-
-## 🎥 پیش‌نمایش پروژه
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlvcnY4ZmpoOWowd3FpZ3NjdXdyMXZpZDNzeTYybGZ3aWZhdTdpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g9582DNuQppxC/giphy.gif" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76B8A&width=435&lines=خوش+اومدی+به+پروژه+PHP+ما!;بزن+بریم+برای+یادگیری+خفن!;کاملاً+ریسپانسیو+و+امن..." />
 </div>
 
 ---
 
-## 💡 ویژگی‌های برجسته
+## 🎥 دموی زنده پروژه
 
-✅ پنل کاربری ریسپانسیو  
-✅ فرم ثبت‌نام و ورود با اعتبارسنجی  
-✅ ذخیره داده در MySQL  
-✅ امنیت در ارسال داده‌ها  
-✅ کدنویسی تمیز و قابل فهم
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
+</div>
 
 ---
 
-## 🧰 تکنولوژی‌های استفاده‌شده
+## 🌟 ویژگی‌های پروژه
 
-| ابزار           | نسخه      |
-|----------------|-----------|
-| PHP            | 8.x       |
-| MySQL          | 5.7+      |
-| Bootstrap      | 5.3       |
-| HTML / CSS     | ✔️        |
+- ✅ ساخت حساب کاربری و ورود امن
+- ✅ اعتبارسنجی سمت سرور
+- ✅ معماری تمیز و ماژولار (MVC)
+- ✅ اتصال حرفه‌ای به دیتابیس MySQL
+- ✅ طراحی حرفه‌ای با Bootstrap 5
 
 ---
 
-## ⚙️ نصب و اجرا (4 قدم ساده)
+## 🛠️ تکنولوژی‌های استفاده شده
+
+| تکنولوژی     | نسخه |
+|--------------|-------|
+| PHP          | 8.x   |
+| MySQL        | 5.7+  |
+| Bootstrap    | 5.x   |
+| HTML / CSS   | ✔️    |
+
+---
+
+## ⚙️ نصب و اجرا
 
 ```bash
-# 1️⃣ پروژه رو کلون کن
+# 1. کلون پروژه
 git clone https://github.com/yourusername/php-awesome-app.git
 
-# 2️⃣ داخل پوشه پروژه برو
+# 2. ورود به پوشه
 cd php-awesome-app
 
-# 3️⃣ فایل database.sql رو داخل phpMyAdmin ایمپورت کن
+# 3. ایمپورت دیتابیس در phpMyAdmin
+# فایل database.sql
 
-# 4️⃣ اجرا در مرورگر
+# 4. اجرای پروژه در مرورگر:
 http://localhost/php-awesome-app/
